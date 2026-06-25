@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=Ortega+Sakti;CV+Putra+Ortega+Karya+Abadi;Spesialis+Pintu+Air+%26+Pengecoran+Logam" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Ortega+Sakti;CV+Putra+Ortega+Karya+Abadi;Spesialis+Pintu+Air+%26+Pengecoran+Logam" alt="Typing SVG" />
 </p>
 
 <p align="center">
