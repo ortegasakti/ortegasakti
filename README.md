@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Ortega+Sakti;CV+Putra+Ortega+Karya+Abadi;Spesialis+Pintu+Air+%26+Pengecoran+Logam" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0891B2&center=true&vCenter=true&width=600&height=58&lines=Ortega+Sakti;CV+Putra+Ortega+Karya+Abadi;Spesialis+Pintu+Air+%26+Pengecoran+Logam" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ Kami mengembangkan solusi digital untuk mendukung layanan dan operasional perusa
 
 | Projek | Teknologi | Status |
 |--------|-----------|--------|
-| [**OrtegaSakti-Ecommerce**](https://github.com/ortegasakti/OrtegaSakti-Ecommerce) | Platform e-commerce produk manufaktur | Aktif |
+| **OrtegaSakti-Ecommerce** | Platform e-commerce produk manufaktur | Aktif |
 
 ---
 
