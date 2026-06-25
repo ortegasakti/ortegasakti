@@ -33,14 +33,6 @@ Kami mengembangkan solusi digital untuk mendukung layanan dan operasional perusa
 
 ---
 
-## Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ortegasakti&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent&border_color=30363d&text_color=c9d1d9&icon_color=0891B2" />
-</p>
-
----
-
 <p align="center">
   <i>Dikelola oleh tim IT CV Putra Ortega Karya Abadi</i>
 </p>
