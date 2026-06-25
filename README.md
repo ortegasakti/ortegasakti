@@ -1,29 +1,34 @@
-# Ortega Sakti (CV Putra Ortega Karya Abadi)
+# Ortega Sakti
+### CV Putra Ortega Karya Abadi
 
-Selamat datang di repositori GitHub resmi **Ortega Sakti**. Kami adalah perusahaan manufaktur yang bergerak sebagai spesialis dalam pembuatan Pintu Air dan Pengecoran Logam. 
+**Spesialis Pintu Air & Pengecoran Logam** | Kabupaten Klaten, Jawa Tengah
 
-Melalui GitHub, kami mengelola dan mengembangkan berbagai inisiatif rekayasa perangkat lunak dan solusi digital untuk mendukung efisiensi operasional, manajemen produksi, serta ekspansi layanan bisnis kami.
-
-## Informasi Perusahaan
-
-* **Nama Legal:** CV Putra Ortega Karya Abadi
-* **Fokus Industri:** Manufaktur (Spesialis Pintu Air dan Pengecoran Logam)
-* **Pusat Operasi:** Bakalan, Sentono, Ngawonggo, Kec. Ceper, Kabupaten Klaten, Jawa Tengah 57465
-
-## Inisiatif Digital
-
-Teknologi informasi memegang peranan penting dalam modernisasi layanan kami. Saat ini, fokus pengembangan digital kami mencakup:
-
-* **OrtegaSakti-Ecommerce:** Pengembangan dan pemeliharaan platform *e-commerce* resmi perusahaan yang ditujukan untuk mempermudah akses klien terhadap produk-produk manufaktur kami secara digital.
-
-## Kontak dan Informasi Lebih Lanjut
-
-Untuk pertanyaan bisnis, konsultasi produk, atau informasi lebih lanjut mengenai layanan kami, silakan kunjungi saluran resmi kami di bawah ini:
-
-* **Website Resmi:** [ortegasakti.com](https://ortegasakti.com)
-* **LinkedIn:** [Ortega Sakti](https://linkedin.com/in/ortega-sakti-9a49731a3)
-* **Instagram:** [@cv.ortegasakti](https://instagram.com/cv.ortegasakti)
-* **Facebook:** [cv.ortegasakti](https://facebook.com/cv.ortegasakti)
+![GitHub followers](https://img.shields.io/github/followers/ortegasakti?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/ortegasakti/ortegasakti)
 
 ---
-*Profil ini dikelola oleh tim IT CV Putra Ortega Karya Abadi untuk keperluan internal dan publikasi proyek sumber terbuka (open-source).*
+
+### Tentang Kami
+
+Kami adalah perusahaan manufaktur yang fokus pada pembuatan **Pintu Air** dan **Pengecoran Logam** berkualitas tinggi. Selain produksi, kami aktif mengembangkan solusi digital untuk mendukung efisiensi operasional dan ekspansi bisnis.
+
+---
+
+### Projek Digital
+
+| Projek | Deskripsi |
+|--------|-----------|
+| [OrtegaSakti-Ecommerce](https://github.com/ortegasakti/OrtegaSakti-Ecommerce) | Platform e-commerce resmi perusahaan untuk memudahkan akses klien terhadap produk manufaktur kami secara digital. |
+
+---
+
+### Hubungi Kami
+
+[![Website](https://img.shields.io/badge/Website-ortegasakti.com-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ortegasakti.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ortegasakti-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ortega-sakti-9a49731a3)
+[![Instagram](https://img.shields.io/badge/Instagram-@cv.ortegasakti-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cv.ortegasakti)
+[![Facebook](https://img.shields.io/badge/Facebook-cv.ortegasakti-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/cv.ortegasakti)
+
+---
+
+*Dikelola oleh tim IT CV Putra Ortega Karya Abadi.*
