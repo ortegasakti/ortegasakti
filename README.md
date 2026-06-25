@@ -1,34 +1,46 @@
-# Ortega Sakti
-### CV Putra Ortega Karya Abadi
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=Ortega+Sakti;CV+Putra+Ortega+Karya+Abadi;Spesialis+Pintu+Air+%26+Pengecoran+Logam" alt="Typing SVG" />
+</p>
 
-**Spesialis Pintu Air & Pengecoran Logam** | Kabupaten Klaten, Jawa Tengah
-
-![GitHub followers](https://img.shields.io/github/followers/ortegasakti?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/ortegasakti/ortegasakti)
-
----
-
-### Tentang Kami
-
-Kami adalah perusahaan manufaktur yang fokus pada pembuatan **Pintu Air** dan **Pengecoran Logam** berkualitas tinggi. Selain produksi, kami aktif mengembangkan solusi digital untuk mendukung efisiensi operasional dan ekspansi bisnis.
+<p align="center">
+  <a href="https://ortegasakti.com"><img src="https://img.shields.io/badge/Website-0891B2?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ortega-sakti-9a49731a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/cv.ortegasakti"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://facebook.com/cv.ortegasakti"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+</p>
 
 ---
 
-### Projek Digital
+## Tentang Perusahaan
 
-| Projek | Deskripsi |
-|--------|-----------|
-| [OrtegaSakti-Ecommerce](https://github.com/ortegasakti/OrtegaSakti-Ecommerce) | Platform e-commerce resmi perusahaan untuk memudahkan akses klien terhadap produk manufaktur kami secara digital. |
+**CV Putra Ortega Karya Abadi** — perusahaan manufaktur yang berdiri di Klaten, Jawa Tengah, sebagai spesialis dalam pembuatan **Pintu Air** dan **Pengecoran Logam** berkualitas tinggi.
 
----
-
-### Hubungi Kami
-
-[![Website](https://img.shields.io/badge/Website-ortegasakti.com-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ortegasakti.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ortegasakti-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ortega-sakti-9a49731a3)
-[![Instagram](https://img.shields.io/badge/Instagram-@cv.ortegasakti-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cv.ortegasakti)
-[![Facebook](https://img.shields.io/badge/Facebook-cv.ortegasakti-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/cv.ortegasakti)
+| Informasi | Detail |
+|-----------|--------|
+| Nama Legal | CV Putra Ortega Karya Abadi |
+| Industri | Manufaktur — Pintu Air & Pengecoran Logam |
+| Pusat Operasi | Bakalan, Sentono, Ngawonggo, Kec. Ceper, Kab. Klaten, Jawa Tengah 57465 |
 
 ---
 
-*Dikelola oleh tim IT CV Putra Ortega Karya Abadi.*
+## Projek Digital
+
+Kami mengembangkan solusi digital untuk mendukung layanan dan operasional perusahaan.
+
+| Projek | Teknologi | Status |
+|--------|-----------|--------|
+| [**OrtegaSakti-Ecommerce**](https://github.com/ortegasakti/OrtegaSakti-Ecommerce) | Platform e-commerce produk manufaktur | Aktif |
+
+---
+
+## Statistik GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ortegasakti&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent&border_color=30363d&text_color=c9d1d9&icon_color=0891B2" />
+</p>
+
+---
+
+<p align="center">
+  <i>Dikelola oleh tim IT CV Putra Ortega Karya Abadi</i>
+</p>
